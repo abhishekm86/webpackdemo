@@ -115,7 +115,7 @@ eval("let username = __webpack_require__(/*! ./script_username */ \"./src/script
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("let username = (function(){\t\n\treturn function(){\n\t\treturn \"abhishek.m86\";\t\n\t}\t\n})();\nmodule.exports = username;\n\n//# sourceURL=webpack:///./src/script_username.js?");
+eval("let username = (function(){\t\n\treturn function(){\n\t\treturn \"_abhishek.m86_\";\t\n\t}\t\n})();\nmodule.exports = username;\n\n//# sourceURL=webpack:///./src/script_username.js?");
 
 /***/ })
 
